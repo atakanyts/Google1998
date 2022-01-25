@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+input{
+    border: 1px solid rgb(118, 118, 118), rgb(133, 133, 133);
+}
+
+p{
+    margin: 1px;
+}
+
+.search{
+    background-color: #EEEE;
+    width: 709.500px;
+    height: 60px;
+    margin: auto;
+}
+.box1{
+    width: 259.766px;
+    height: 54px;
+    margin-left: 300px;
+    background-color:#7EE5DA;
+    padding: 13px 0 13px 0;
+}
+
+.box2{
+    width: 136.094px;
+    height: 64px;
+    background-color: #70CCC2;
+    padding: 8px 0 8px 0;
+}
+
+.box3{
+    width: 305.641px;
+    height: 74px;
+    background-color: #62B3AA;
+    padding: 3px 0 3px 0;
+}
+
+.box1, .box2, .box3{
+    float: left;
+    margin-right: 2px;
+    font-size: small;
+}
